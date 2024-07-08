@@ -1,0 +1,29 @@
+@media (max-width: 740px) {
+    #name {display: none;}
+    #user {margin-left: 50px;}
+}
+
+@media (max-height: 450px){
+    .left {
+        padding-bottom: 15px;
+    }
+    .footer {
+        display: none;
+    }
+}
+
+@media (max-width: 450px){
+    #singular {
+        width: 300px;
+    }
+}
+
+@media (max-width: 300px){
+    #singular {
+        width: 250px;
+    }
+
+    #repertorio {
+        width: 200px;
+    }
+}
